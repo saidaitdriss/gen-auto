@@ -1,4 +1,4 @@
-# Script to generate and collect stored cookies and client stuff from particular websites urls
+# Script to generate ,collect and stored cookies and client stuff from particular websites urls
 
 ## features
  - collect cookies
@@ -20,7 +20,7 @@
         //     password: '',
         // },
         headers: {
-            // 'Content-Type': 'application/json',
+            'Content-Type': 'application/json',
             'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
             userAgent:
                 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36',
@@ -66,6 +66,7 @@
     }
 
 ```
+
 ### list of some devices 
    ------------------------
    | Desktop Edge         
