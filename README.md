@@ -66,7 +66,6 @@
     }
 
 ```
-
 ### list of some devices 
    ------------------------
    | Desktop Edge         
